@@ -10,7 +10,39 @@ output:
     toc_depth: 2
 ---
 
+<style>
+.button {
+  background-color: #007bff; /* Blue background */
+  border: none;
+  color: white;
+  padding: 10px 20px; /* Size of the padding around the text */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; /* Size of the font */
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px; /* Rounded corners */
+  transition-duration: 0.4s; /* Smooth transition effect for hover state */
+}
+
+/* Darker background on mouse-over */
+.button:hover {
+  background-color: #0056b3;
+}
+</style>
+
+
+
 <h1> Welcome to Fabio's Defense Website </h1>
+
+<br>
+
+<center>
+<a href="http://www.example.com" class="button">RSVP</a>
+</center>
+
+<br>
 
 - Event info (time, location, duration, dress code, similar to emails from other defense)
 - RSVPs link to google form where we collect emails (optional) and allow down of calendar invite - HERE add both dissertation, borrel, and party
