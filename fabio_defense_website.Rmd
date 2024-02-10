@@ -1,13 +1,11 @@
 ---
-title: "dr::Fabio Votta"
-author: "Document Author"
+title: "Welcome to Fabio's Defense Website"
+author: "dr::Fabio Votta"
 date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
-    theme: architect
+    theme: cayman
     highlight: github
-    toc: true
-    toc_depth: 2
 ---
 
 <style>
@@ -34,8 +32,6 @@ output:
 
 
 
-<h1> Welcome to Fabio's Defense Website </h1>
-
 <br>
 
 <center>
@@ -43,6 +39,16 @@ output:
 </center>
 
 <br>
+
+```{r}
+fabio <- paste0("Dr. ", "Fabio Votta")
+print(fabio)
+```
+Overview
+ 
++ [New Styles](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
++ [New 2222](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
++ [New 2223](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
 
 - Event info (time, location, duration, dress code, similar to emails from other defense)
 - RSVPs link to google form where we collect emails (optional) and allow down of calendar invite - HERE add both dissertation, borrel, and party
