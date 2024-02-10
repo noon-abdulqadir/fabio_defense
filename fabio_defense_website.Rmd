@@ -12,6 +12,14 @@ output:
 
 <h1> Welcome to Fabio's Defense Website </h1>
 
+- Event info (time, location, duration, dress code, similar to emails from other defense)
+- RSVPs link to google form where we collect emails (optional) and allow down of calendar invite - HERE add both dissertation, borrel, and party
+- Calendar invite with both dissertation + borrel and party invites - kinda like phd club
+- Link to maps dissertation + borrel and party location
+- (Optional) Summary of dissertation, maybe abstract with the hopefully cute and badass cover
+- Secret gift page with donation payment options - use IBAN, tikkie, my paypal or ask if sophia can set it up
+- Insta page + Hashtag
+- 
 
 Here you will find all the information you for the big day! ✨
 
