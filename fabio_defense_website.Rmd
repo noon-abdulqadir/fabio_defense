@@ -1,16 +1,18 @@
 ---
 title: "Welcome to Fabio's Defense Website"
+subtitle: "The place to find all the information you for Dr. Fabio's big day! ✨🚤👨🏻‍🎓✨"
 author: "dr::Fabio Votta"
-date: "`r Sys.Date()`"
 output:
   prettydoc::html_pretty:
     theme: cayman
     highlight: github
 ---
+<h3>First thing first, kindly RSVP by clicking the button below.</h3>
 
+```{=html}
 <style>
 .button {
-  background-color: #007bff; /* Blue background */
+  background-color: #144F7C; /* Blue background */
   border: none;
   color: white;
   padding: 10px 20px; /* Size of the padding around the text */
@@ -26,40 +28,62 @@ output:
 
 /* Darker background on mouse-over */
 .button:hover {
-  background-color: #0056b3;
+  background-color: #17616A;
 }
 </style>
+```
+<br>
 
-
+<center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button">RSVP</a></center>
 
 <br>
 
-<center>
-<a href="http://www.example.com" class="button">RSVP</a>
-</center>
-
-<br>
+<h4>Join us and celebrate as our dear Fabio becomes ...</h4>
 
 ```{r}
 fabio <- paste0("Dr. ", "Fabio Votta")
 print(fabio)
 ```
-Overview
- 
-+ [New Styles](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
-+ [New 2222](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
-+ [New 2223](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
 
-- Event info (time, location, duration, dress code, similar to emails from other defense)
-- RSVPs link to google form where we collect emails (optional) and allow down of calendar invite - HERE add both dissertation, borrel, and party
-- Calendar invite with both dissertation + borrel and party invites - kinda like phd club
-- Link to maps dissertation + borrel and party location
-- (Optional) Summary of dissertation, maybe abstract with the hopefully cute and badass cover
-- Secret gift page with donation payment options - use IBAN, tikkie, my paypal or ask if sophia can set it up
-- Insta page + Hashtag
-- 
+Below, you will find information about the defense and related events.
 
-Here you will find all the information you for the big day! ✨
+<h2>Overview</h2>
+
+-   [Event Information](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
+
+-   [New 2223](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
+
+-   Event info (time, location, duration, dress code, similar to emails from other defense)
+
+-   RSVPs link to google form where we collect emails (optional) and allow down of calendar invite - HERE add both dissertation, borrel, and party
+
+-   Calendar invite with both dissertation + borrel and party invites - kinda like phd club
+
+-   Link to maps dissertation + borrel and party location
+
+-   (Optional) Summary of dissertation, maybe abstract with the hopefully cute and badass cover
+
+-   Secret gift page with donation payment options - use IBAN, tikkie, my paypal or ask if sophia can set it up
+
+-   Insta page + Hashtag
+
+-   
+
+## Dissertation Presentation Information
++ **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
++ **🕐Starting Time:**
+  
+  *Please arrive 30 minutes before starting time.*
+
++ **Program:**
+  + 
+
+
+
 
 `html_pretty` in the [**prettydoc**](https://github.com/yixuan/prettydoc/) package is a new output format for creating HTML documents from R Markdown files. `html_pretty` is more lightweight compared to `html_document`, and is more stylish than `html_vignette` when creating package vignettes.
 
