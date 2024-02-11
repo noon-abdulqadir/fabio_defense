@@ -1,37 +1,21 @@
 ---
-title: "Welcome to Fabio's Defense Website"
-subtitle: "The place to find all the information you for Dr. Fabio's big day! ✨🚤👨🏻‍🎓✨"
-author: "dr::Fabio Votta"
 output:
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
+    html_document:
+      css: defense-in-style.css
 ---
-<h3>First thing first, kindly RSVP by clicking the button below.</h3>
 
-```{=html}
-<style>
-.button {
-  background-color: #144F7C; /* Blue background */
-  border: none;
-  color: white;
-  padding: 10px 20px; /* Size of the padding around the text */
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px; /* Size of the font */
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 5px; /* Rounded corners */
-  transition-duration: 0.4s; /* Smooth transition effect for hover state */
-}
 
-/* Darker background on mouse-over */
-.button:hover {
-  background-color: #17616A;
-}
-</style>
-```
+
+<!-- Custom Header Start -->
+<div class="header">
+  <h1 class="project-name">Welcome to Fabio's Defense Website</h1>
+  <p class="project-tagline">The place to find all the information you for Dr. Fabio's big day! ✨🚤👨🏻‍🎓✨</p>
+</div>
+<!-- Custom Header End -->
+
+
+<center><h3>First thing first, kindly RSVP by clicking the button below.</h3></center>
+
 <br>
 
 <center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button">RSVP</a></center>
@@ -74,14 +58,15 @@ Below, you will find information about the defense and related events.
 -   
 
 
-# Event Information {#event_info}
+## Event Information {.tabset .tabset-pills} 
 
 ***Click [here](https://calendar.google.com/calendar/u/4?cid=ZmFiaW8udm90dGEuZGVmZW5zZUBnbWFpbC5jb20) to download full day calendar invite and location information.***
 
-### Dissertation Presentation 🧑🏻‍🏫 {#dissertation_info}
+### Dissertation Presentation 🧑🏻‍🏫 
+
 + **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 + **🕐Starting Time:**
   
@@ -93,7 +78,7 @@ Below, you will find information about the defense and related events.
 ### Borrel 🍻 {#borrel}
 + **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 + **🕐Starting Time:**
   
@@ -102,7 +87,17 @@ Below, you will find information about the defense and related events.
 ### After-party 🎉 {#after_party}
 + **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk&q=Space+Needle,Seattle+WA">
+</iframe>
 
 + **🕐Starting Time:**
   

@@ -1,0 +1,317 @@
+/* Ensure any container of the header is not limiting its width */
+/* This is a generic approach; you might need to adjust the selector based on your actual HTML structure */
+.container, .main-container {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+
+
+.header {
+  text-align: center;
+  background-color: #159957; /* Green background */
+  background-image: linear-gradient(120deg, #155799, #159957); /* Gradient effect */
+  padding: 2rem 0; /* Top and bottom padding, no left/right padding */
+  margin: 0; /* Removes any default margin */
+  width: 100%; /* Ensures the header takes full width */
+}
+
+.project-name {
+  color: #000000;
+  font-weight: bold;
+  margin-top: 0.5cm;
+  padding: 10px 20px; /* Size of the padding around the text */
+  font-size: 4.5rem; /* Larger font for the project name */
+}
+
+.project-tagline {
+  color: #e6e6e6;
+  margin-bottom: 2cm;
+  font-size: 2.2rem; /* Smaller font for the tagline */
+  opacity: 0.9;
+  padding: 10px 20px; /* Size of the padding around the text */
+}
+
+.header :last-child {
+  margin-bottom: 0.5rem;
+}
+
+.project-author, .project-date {
+  font-weight: normal;
+  opacity: 0.7;
+  font-size: 1.2rem;
+}
+
+
+.button {
+  background-color: #144F7C; /* Blue background */
+  border: none;
+  color: white;
+  padding: 10px 20px; /* Size of the padding around the text */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; /* Size of the font */
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px; /* Rounded corners */
+  transition-duration: 0.4s; /* Smooth transition effect for hover state */
+}
+
+/* Darker background on mouse-over */
+button:hover {                 
+  background-color: #17616A;   
+} 
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), local("OpenSans"), url("https://github.com/yixuan/prettydoc/raw/master/inst/resources/fonts/open-sans-400.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url("https://github.com/yixuan/prettydoc/raw/master/inst/resources/fonts/open-sans-700.woff") format("woff");
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71;
+  width: 100%; /* Ensures that the body takes full width */
+}
+
+a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+@media screen and (max-width: 42em) {
+  .header {
+    padding: 1rem 1rem;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .project-name {
+    font-size: 1.75rem;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .project-tagline {
+    font-size: 1.2rem;
+  }
+}
+
+
+@media screen and (max-width: 42em) {
+  .project-author, .project-date {
+    font-size: 1rem;
+  }
+}
+
+.main-content, .toc {
+  max-width: 64rem;
+  padding: 2rem 4rem;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
+.toc {
+  padding-bottom: 0;
+}
+.toc .toc-box {
+  padding: 1.5rem;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+  border-radius: 0.3rem;
+}
+.toc .toc-box .toc-title {
+  margin: 0 0 0.5rem;
+  text-align: center;
+}
+.toc .toc-box > ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .toc {
+    padding: 2rem 2rem 0;
+  }
+}
+@media screen and (max-width: 42em) {
+  .toc {
+    padding: 2rem 1rem 0;
+    font-size: 1rem;
+  }
+}
+
+.main-content :first-child {
+  margin-top: 0;
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .main-content {
+    padding: 2rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .main-content {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
+}
+.main-content img {
+  max-width: 100%;
+}
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: #159957;
+}
+.main-content p {
+  margin-bottom: 1em;
+}
+.main-content code {
+  padding: 2px 4px;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  color: #567482;
+  background-color: #f3f6fa;
+  border-radius: 0.3rem;
+}
+.main-content pre {
+  padding: 0.8rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  color: #567482;
+  word-wrap: normal;
+  background-color: #f3f6fa;
+  border: solid 1px #dce6f0;
+  border-radius: 0.3rem;
+  line-height: 1.45;
+  overflow: auto;
+}
+@media screen and (max-width: 42em) {
+  .main-content pre {
+    font-size: 0.9rem;
+  }
+}
+.main-content pre > code {
+  padding: 0;
+  margin: 0;
+  color: #567482;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+@media screen and (max-width: 42em) {
+  .main-content pre > code {
+    font-size: 0.9rem;
+  }
+}
+.main-content pre code,
+.main-content pre tt {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+.main-content pre code:before, .main-content pre code:after,
+.main-content pre tt:before,
+.main-content pre tt:after {
+  content: normal;
+}
+.main-content ul,
+.main-content ol {
+  margin-top: 0;
+}
+.main-content blockquote {
+  padding: 0 1rem;
+  margin-left: 0;
+  color: #819198;
+  border-left: 0.3rem solid #dce6f0;
+  font-size: 1.2rem;
+}
+.main-content blockquote > :first-child {
+  margin-top: 0;
+}
+.main-content blockquote > :last-child {
+  margin-bottom: 0;
+}
+@media screen and (max-width: 42em) {
+  .main-content blockquote {
+    font-size: 1.1rem;
+  }
+}
+.main-content table {
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1rem 0;
+}
+.main-content table th {
+  font-weight: bold;
+  background-color: #159957;
+  color: #fff;
+}
+.main-content table th,
+.main-content table td {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #e9ebec;
+  text-align: left;
+}
+.main-content table tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+.main-content dl {
+  padding: 0;
+}
+.main-content dl dt {
+  padding: 0;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.main-content dl dd {
+  padding: 0;
+  margin-bottom: 1rem;
+}
+.main-content hr {
+  height: 2px;
+  padding: 0;
+  margin: 1rem 0;
+  background-color: #eff0f1;
+  border: 0;
+}
