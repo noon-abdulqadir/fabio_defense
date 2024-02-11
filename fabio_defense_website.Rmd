@@ -49,9 +49,13 @@ Below, you will find information about the defense and related events.
 
 <h2>Overview</h2>
 
--   [Event Information](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
++ [Event Information](#event_info)
+  + [Dissertation Presentation](#dissertation_info)
+  + [Borrel](#borrel)
+  + [After-party](#after_party)
+  + [Other information](#other_info)
 
--   [New 2223](file:///C:/Users/fabio/Dropbox/postdoc/fabio_defense/fabio_defense_website.html#new-styles)
++ Download ALL event calendar invites
 
 -   Event info (time, location, duration, dress code, similar to emails from other defense)
 
@@ -69,20 +73,42 @@ Below, you will find information about the defense and related events.
 
 -   
 
-## Dissertation Presentation Information
+
+# Event Information {#event_info}
+
+***Click [here](https://calendar.google.com/calendar/u/4?cid=ZmFiaW8udm90dGEuZGVmZW5zZUBnbWFpbC5jb20) to download full day calendar invite and location information.***
+
+### Dissertation Presentation 🧑🏻‍🏫 {#dissertation_info}
 + **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 + **🕐Starting Time:**
   
   *Please arrive 30 minutes before starting time.*
 
-+ **Program:**
++ **📝Program:**
   + 
 
+### Borrel 🍻 {#borrel}
++ **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
++ **🕐Starting Time:**
+  
+  *The borrel begins directly after the defense presentation.*
+
+### After-party 🎉 {#after_party}
++ **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
++ **🕐Starting Time:**
+  
+  *The borrel begins directly after the defense presentation.*
+
+### Other information {#other_info}
 
 
 `html_pretty` in the [**prettydoc**](https://github.com/yixuan/prettydoc/) package is a new output format for creating HTML documents from R Markdown files. `html_pretty` is more lightweight compared to `html_document`, and is more stylish than `html_vignette` when creating package vignettes.
