@@ -1,8 +1,7 @@
 ---
 output:
-    html_document:
-      theme: yeti
-      css: defense-in-style.css
+  rmdformats::html_docco:
+    css: defense-in-style.css
 ---
 
 ```{css, echo=FALSE}
@@ -20,6 +19,87 @@ output:
 .break .nav-tabs .nav-link, .break .nav-pills .nav-link {
   margin-right: 5px; /* Optional: Adds some space between the tabs */
 }
+
+
+.button {
+  background-color: #144F7C; /* Blue background */
+  border: none;
+  color: white;
+  padding: 10px 20px; /* Size of the padding around the text */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; /* Size of the font */
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px; /* Rounded corners */
+  transition-duration: 0.4s; /* Smooth transition effect for hover state */
+}
+
+/* Darker background on mouse-over */
+button:hover {
+  background-color: #17616A;
+}
+
+
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), local("OpenSans"), url("https://github.com/yixuan/prettydoc/raw/master/inst/resources/fonts/open-sans-400.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url("https://github.com/yixuan/prettydoc/raw/master/inst/resources/fonts/open-sans-700.woff") format("woff");
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  width: 100%; /* Ensures that the body takes full width */
+}
+
+a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+.break .nav-tabs, .break .nav-pills {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.break .nav-tabs .nav-item, .break .nav-pills .nav-item {
+  margin: 10 auto; /* Centers the nav items if they have a specific width */
+}
+
+.break .nav-tabs .nav-link, .break .nav-pills .nav-link {
+  margin-right: 5px; /* Optional: Adds some space between the tabs */
+  font-size: 16px; /* Size of the font */
+}
+
+blockquote {
+  border-left: none; /* Removes the left border or bar */
+  color: #159957; /* Sets the text color to black */
+  margin-left: 0; /* Adjusts the left margin if necessary */
+  padding-left: 0; /* Removes padding on the left if it exists */
+}
+
+
 ```
 
 <!-- <style> -->
@@ -62,12 +142,11 @@ output:
 <h4>Join us and celebrate as our dear Fabio becomes ...</h4>
 
 ```{r, echo = TRUE}
-fabio <- paste0("Dr. ", "Fabio Votta")
+title <- "Dr."
+name <- "Fabio Votta"
+print(glue::glue("{title} {name}"))
 ```
-```{r, echo = FALSE}
-fabio <- paste0("Dr. ", "Fabio Votta")
-print(fabio)
-```
+
 
 </br>
 
@@ -87,34 +166,57 @@ print(fabio)
 
 ### Defense Ceremony 🧑🏻‍🏫 {#dissertation_info}
 
-<br>
-
 **🕐 Time:**
 14:00 (2:00PM) - 15:00 (3:00PM)
-  
-*Please arrive 30 minutes before starting time at 13:30 as entry is not allow once the ceremony starts.*
-
-*Children under the age of 6 years are not allowed entry.*
-
-<br>
 
 <details>
-  <summary>**📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
+  <summary>**>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
 </summary>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</br>
 
 </details> 
 
 
+  
+> *Please arrive 30 minutes before starting time at **13:30** as entry is not allow once the ceremony starts.*
 
-How to get there:
+
+**📝 Program:**
+
+| Time     | Agenda |
+| -------- | ------- |
+| 13:30  | Arrival and entry    |
+| 14:00 | Start of Presentation (Layman's Talk)     |
+| 14:10    | End of Presentation    |
+
+*5 MINUTES BREAK*
+
+| Time     | Agenda |
+| -------- | ------- |
+| 14:15  | Committee Entrance + Q&A session   |
+| 15:00 | Committee Decision    |
+| 15:30    | End of Defense Ceremony   |
+
+**🎥 Livestream Link:**
+
+Click [here](https://www.uva.nl/en/research/phd/phd-defence-ceremony-agenda/phd-defence-ceremonies.html?t=fmg) to access the livestream.
+
+
+
+<details>
+  <summary>**> 🚗🚇🚋 How To Get There**
+</summary>
+
+
+Public Transport
+
 
 🚇 Metro Station **Rokin** via *Metro 52 (Blue Line)*
 
 🚋 Tram Station **Rokin** via *Tram 4*, *Tram 14*, and *Tram 24*
 
 🚋 Tram Station **Koningsplein** via *Tram 2* and *Tram 12*
+
 
 Car Parking Options:
 
@@ -125,26 +227,11 @@ Car Parking Options:
 🅿️ Q-Park de Bijenkorf (Beursstraat 15)
 
 
-<br>
 
-**📝 Program:**
+</details> 
 
-+ 13:30 - Arrival and entry
-+ 14:00 - Start of Defense Presentation (Layman’s Talk)
-+ 14:10 - End of Defense Presentation
-+ **5 MINUTES BREAK**
-+ 14:15 - Committee Entrance and Q&A session
-+ 15:00 - Committee Decision
-+ 15:30 - End of Defense Ceremony
-</br>
 
-<br>
 
-**🎥 Livestream Link:**
-
-Click [here](https://www.uva.nl/en/research/phd/phd-defence-ceremony-agenda/phd-defence-ceremonies.html?t=fmg) to access the livestream.
-
-</br>
 
 <!-- <br> -->
 <!-- </br> -->
