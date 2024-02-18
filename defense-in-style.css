@@ -59,9 +59,19 @@
 }
 
 /* Darker background on mouse-over */
-button:hover {                 
-  background-color: #17616A;   
-} 
+button:hover {
+  background-color: #17616A;
+}
+
+Style the tab
+.tabset .nav-pills > li > a:hover,
+.tabset .nav-pills > li > a:focus,
+.tabset .nav-pills > li.active > a,
+.tabset .nav-pills > li.active > a:hover,
+.tabset .nav-pills > li.active > a:focus{
+    background-color: #144F7C;
+    color: #fff;
+    }
 
 @font-face {
   font-family: "Open Sans";

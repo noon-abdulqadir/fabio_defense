@@ -4,40 +4,161 @@ output:
       css: defense-in-style.css
 ---
 
-
+<!-- <style> -->
+<!-- img { -->
+<!--   height: 356px; -->
+<!--   width: 356px; -->
+<!--   border-radius: 0.3rem; -->
+<!--   object-fit: cover; -->
+<!-- } -->
+<!-- </style> -->
 
 <!-- Custom Header Start -->
 <div class="header">
-  <h1 class="project-name">Welcome to Fabio's Defense Website</h1>
+  <h1 class="project-name" style="color: white;">Welcome to Fabio's Defense Website</h1>
   <p class="project-tagline">The place to find all the information you for Dr. Fabio's big day! ✨🚤👨🏻‍🎓✨</p>
 </div>
 <!-- Custom Header End -->
 
+<img
+  style="
+  float: right;
+  <!-- display:block; -->
+  <!-- margin-left: auto; margin-right: auto; -->
+  width: 240px;
+  height: 240px;
+  border-radius: 0.3rem;
+  object-fit: cover;"
+  src="fabio-jong-uva.jpg">
 
 <center><h3>First thing first, kindly RSVP by clicking the button below.</h3></center>
 
 <br>
 
-<center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button">RSVP</a></center>
+<center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button" style="color: white;">RSVP</a></center>
+
+</br>
 
 <br>
 
 <h4>Join us and celebrate as our dear Fabio becomes ...</h4>
 
-```{r}
+```{r, echo = TRUE}
+fabio <- paste0("Dr. ", "Fabio Votta")
+```
+```{r, echo = FALSE}
 fabio <- paste0("Dr. ", "Fabio Votta")
 print(fabio)
 ```
 
-Below, you will find information about the defense and related events.
+</br>
+
+<!-- <hr> -->
+
+<!-- ***️❗️ Make sure to scroll all the way to the end for the secret page! (unless you're Fabio, in which case, nothing to see here...️)*** -->
+
+## Event Information {.tabset .tabset-pills #event_info}
+
+**📅 Date:** Friday, April 19, 2024
+
+*Click [here](https://calendar.google.com/calendar/u/4?cid=ZmFiaW8udm90dGEuZGVmZW5zZUBnbWFpbC5jb20) to download full day calendar invite and location information.*
+
+### Defense Ceremony 🧑🏻‍🏫 {#dissertation_info}
+
+**🕐 Time:**
+14:00 (2:00PM) - 15:00 (3:00PM)
+  
+*Please arrive 30 minutes before starting time at 13:30 as entry is not allow once the ceremony starts.*
+
+*Children under the age of 6 years are not allowed entry.*
+
+<br>
+
+**📍 Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</br>
+
+<br>
+
+**📝 Program:**
+
++ 13:30 - Arrival and entry
++ 14:00 - Start of Defense Presentation
++ 14:10 - End of Defense Presentation
++ **5 MINUTES BREAK**
++ 14:15 - Questions and Answers Session
++ 15:00 - End of Defense Ceremony
+</br>
+
+<br>
+</br>
+
+### Borrel 🍻 {#borrel}
+**🕐 Time:**
+15:00 (3:00PM) - 17:00 (5:00PM)
+  
+*The borrel begins directly after the defense ceremony*
+
+<br>
+
+**📍 Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</br>
+
+<br>
+
+**🫒 Snack Options:**
+
++ 
+</br>
+<br>
+</br>
+
+### After-party 🎉 {#after_party}
+**🕐 Time:**
+14:00 (2:00PM) - 15:00 (3:00PM)
+  
+*The borrel begins directly after the defense presentation.*
+
+<br>
+
+**📍 Location:** Amstelhaven, Op Professor Tulpplein / naast Amstelhotel, Mauritskade 1, 1091 EW Amsterdam
+
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJGYfrDZoJxkcR7b7PdqcF6FQ&key=AIzaSyD2biRbP_7HaN52sJSBw0H9ulQe8h0dJQE"></iframe>
+</br>
+<br>
+</br>
+
+### Other information {#other_info}
+
+<br>
+</br>
+<br>
+
+##
+
+<hr>
+
+## Event Media
+
+**Instagram:** @fabiodefense
+
+**Hashtag:** #DrFabio
+
+<hr>
+<br>
+</br>
+
+### Please click the button below for information on Fabio's presents (if you're not Fabio)
+<center><a href="FABIO_DO_NOT_OPEN.html" class="button" style="color: white;">🎁 Fabio's Presents 🎁</a></center>
+</br>
 
 <h2>Overview</h2>
 
 + [Event Information](#event_info)
-  + [Dissertation Presentation](#dissertation_info)
-  + [Borrel](#borrel)
-  + [After-party](#after_party)
-  + [Other information](#other_info)
 
 + Download ALL event calendar invites
 
@@ -56,100 +177,3 @@ Below, you will find information about the defense and related events.
 -   Insta page + Hashtag
 
 -   
-
-
-## Event Information {.tabset .tabset-pills} 
-
-***Click [here](https://calendar.google.com/calendar/u/4?cid=ZmFiaW8udm90dGEuZGVmZW5zZUBnbWFpbC5jb20) to download full day calendar invite and location information.***
-
-### Dissertation Presentation 🧑🏻‍🏫 
-
-+ **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-+ **🕐Starting Time:**
-  
-  *Please arrive 30 minutes before starting time.*
-
-+ **📝Program:**
-  + 
-
-### Borrel 🍻 {#borrel}
-+ **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-+ **🕐Starting Time:**
-  
-  *The borrel begins directly after the defense presentation.*
-
-### After-party 🎉 {#after_party}
-+ **📍Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<iframe
-  width="600"
-  height="450"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk&q=Space+Needle,Seattle+WA">
-</iframe>
-
-+ **🕐Starting Time:**
-  
-  *The borrel begins directly after the defense presentation.*
-
-### Other information {#other_info}
-
-
-`html_pretty` in the [**prettydoc**](https://github.com/yixuan/prettydoc/) package is a new output format for creating HTML documents from R Markdown files. `html_pretty` is more lightweight compared to `html_document`, and is more stylish than `html_vignette` when creating package vignettes.
-
-## New Styles
-
-`html_pretty` currently supports three page themes (`cayman`, `tactile` and `architect`), and two syntax highlight styles (`github` and `vignette`). The theme and highlight styles can be specified in the document metadata, for example:
-
-``` yaml
-output:
-  prettydoc::html_pretty:
-    theme: architect
-    highlight: github
-```
-
-## Your Familiar Tools
-
-Feel free to use the `knitr` infrastructure with dozens of tunable options in your document.
-
-```{r fig.width=6, fig.height=6, fig.align='center'}
-set.seed(123)
-n <- 1000
-x1  <- matrix(rnorm(n), ncol = 2)
-x2  <- matrix(rnorm(n, mean = 3, sd = 1.5), ncol = 2)
-x   <- rbind(x1, x2)
-head(x)
-smoothScatter(x, xlab = "x1", ylab = "x2")
-```
-
-You can include code snippets of languages other than R, but note that the block header has no curly brackets around the language name.
-
-``` cpp
-// [[Rcpp::export]]
-NumericVector timesTwo(NumericVector x) {
-    return x * 2;
-}
-```
-
-You can also write math expressions, e.g. $Y = X\beta + \epsilon$, footnotes[^1], and tables, e.g. using `knitr::kable()`.
-
-[^1]: A footnote here.
-
-```{r, echo=FALSE, results='asis'}
-knitr::kable(head(iris, 10))
-```
-
-## Stay Tuned
-
-Please visit the [development page](https://github.com/yixuan/prettydoc/) of the `prettydoc` package for latest updates and news. Comments, bug reports and pull requests are always welcome.
