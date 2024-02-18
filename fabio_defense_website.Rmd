@@ -192,8 +192,8 @@ How to get there:
 <br>
 </br>
 
-### Please click the button below for information on Fabio's presents (if you're not Fabio)
-<center><a href="FABIO_DO_NOT_OPEN.html" class="button" style="color: white;">🎁 Fabio's Presents 🎁</a></center>
+### Please click the button below for information on Fabio's gift (if you're not Fabio)
+<center><a href="FABIO_DO_NOT_OPEN.html" class="button" style="color: white;">🎁 Fabio's Gift 🎁</a></center>
 </br>
 
 <h2>Overview</h2>
