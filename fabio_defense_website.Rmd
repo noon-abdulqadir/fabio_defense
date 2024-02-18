@@ -76,6 +76,19 @@ print(fabio)
 
 **📍 Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
 
+How to get there:
+
++ Metro Station Rokin via Metro 52 (Blue Line)
++ Tram Station Rokin via Tram 4, Tram 14, and Tram 24
++ Tram Station Koningsplein via Tram 2 and Tram 12
+
+Car Parking Options:
+
+*Note that finding a parking spot may be difficult*
+
++ Stopera/Waterlooplein (Valkenburgerstraat 238)
++ Q-Park de Bijenkorf (Beursstraat 15)
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </br>
 
@@ -84,25 +97,47 @@ print(fabio)
 **📝 Program:**
 
 + 13:30 - Arrival and entry
-+ 14:00 - Start of Defense Presentation
++ 14:00 - Start of Defense Presentation (Layman’s Talk)
 + 14:10 - End of Defense Presentation
 + **5 MINUTES BREAK**
-+ 14:15 - Questions and Answers Session
-+ 15:00 - End of Defense Ceremony
++ 14:15 - Committee Entrance and Q&A session
++ 15:00 - Committee Decision
++ 15:30 - End of Defense Ceremony
 </br>
 
 <br>
+
+**🎥 Livestream Link:**
+
+Click [here](https://www.uva.nl/en/research/phd/phd-defence-ceremony-agenda/phd-defence-ceremonies.html?t=fmg) to access the livestream.
+
 </br>
+
+<!-- <br> -->
+<!-- </br> -->
 
 ### Borrel 🍻 {#borrel}
 **🕐 Time:**
-15:00 (3:00PM) - 17:00 (5:00PM)
+15:30 (3:30PM) - 
   
 *The borrel begins directly after the defense ceremony*
 
 <br>
 
 **📍 Location:** Aula UvA, Singel 411, 1012 WN Amsterdam
+
+How to get there:
+
++ Metro Station Rokin via Metro 52 (Blue Line)
++ Tram Station Rokin via Tram 4, Tram 14, and Tram 24
++ Tram Station Koningsplein via Tram 2 and Tram 12
+
+Car Parking Options:
+
+*Note that finding a parking spot may be difficult*
+
++ Stopera/Waterlooplein (Valkenburgerstraat 238)
++ Q-Park de Bijenkorf (Beursstraat 15)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -126,6 +161,11 @@ print(fabio)
 <br>
 
 **📍 Location:** Amstelhaven, Op Professor Tulpplein / naast Amstelhotel, Mauritskade 1, 1091 EW Amsterdam
+
+How to get there:
+
++ Metro Station Wesperplein via Metro 51 (Orange Line), Metro 53 (Red Line), and Metro 54 (Yellow Line)
++ Tram Station Wesperplein via Tram 1, Tram 7, and Tram 19
 
 <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJGYfrDZoJxkcR7b7PdqcF6FQ&key=AIzaSyD2biRbP_7HaN52sJSBw0H9ulQe8h0dJQE"></iframe>
 </br>

@@ -6,12 +6,27 @@ output:
 
 <!-- Custom Header Start -->
 <div class="header">
-  <h1 class="project-name" style="color: white;">🎁 Fabio's Presents 🎁</h1>
-  <p class="project-tagline">The place to find all the information you for Dr. Fabio's big day! ✨🚤👨🏻‍🎓✨</p>
+  <h1 class="project-name" style="color: white;">🎁 Fabio's Surprise Gift 🎁</h1>
+  <p class="project-tagline">Please keep this a secret! 🤫/p>
 </div>
 <!-- Custom Header End -->
 
 
-<center><h3> Fabio Presents </h3></center>
+<center><h3> Friendship book </h3></center>
+In addition to the main gift, we would like to gift Fabio a [“friendship book”](https://mijnvriendenboekje.nl/product) and we need your input for that!
 
+***Please click [here]() to access Fabio's friendship book.***
 
+**Deadline to fill out:** Monday, April 8th, 2024
+
+**You will be asked to:**
+
++ Answer several questions about Fabio
++ Write a short personal message
++ Upload a picture of yourself
+
+Everything on your page is optional so you can also leave out questions or a picture if you prefer that.
+
+If you cannot access the link, please reach out to us by clicking [here]() and we will add you.
+
+If you have more pictures which you would like to see in this “friendship book”, please send them to us by clicking [here]().
