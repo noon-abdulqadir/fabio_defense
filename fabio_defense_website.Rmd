@@ -95,13 +95,13 @@ blockquote {
 
 
 
-<center><h3>First thing first, kindly RSVP by clicking the button below.</h3></center>
+<center><h4>First thing first, kindly RSVP by clicking the button below.</h4></center>
 
 <center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button" style="color: white;">RSVP</a></center>
 
 
+<h4>Join us and celebrate as our dear Fabio becomes...</h4>
 
-<h4>Join us and celebrate as our dear Fabio becomes ...</h4>
 
 ```{r, echo = TRUE}
 title <- "Dr."
@@ -124,20 +124,12 @@ print(glue::glue("{title} {name}"))
 ### 14:00 Defense Ceremony 🧑🏻‍🏫 {#dissertation_info}
 
 **🕐 Time:**
-14:00 (2:00PM) - 15:00 (3:00PM)
+14:00 (2:00PM) - 15:30 (3:30PM)
 
 > *Please arrive 30 minutes before starting time at **13:30** as entry is not allow once the ceremony starts.*
 
 
-<details>
-  <summary>**>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
-</summary>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-</details> 
-
-
-  
+**>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
 
 
 **📝 Program:**
@@ -202,12 +194,7 @@ Car Parking Options:
 > *The borrel (snacks & drinks) begins directly after the defense ceremony and is at the same location.*
 
 
-<details>
-  <summary>**>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
-</summary>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.232948764011!2d4.889200000000001!3d52.368308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c193a4380f%3A0xccfdbd1232ff182d!2sAula%20UvA!5e0!3m2!1sen!2snl!4v1707607227284!5m2!1sen!2snl&key=AIzaSyBmcH5hc00th33V4MeggDTXPGusJSKIPzk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-</details> 
+**>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
 
 ![](sad.jpg)
 
@@ -250,12 +237,7 @@ Car Parking Options:
 
 ![](photo_2024-02-18_22-30-04.jpg)
 
-<details>
-  <summary>**>📍 Location:** Amstelhaven [Op Professor Tulpplein / naast Amstelhotel, Mauritskade 1, 1091 EW Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c6099a0deb8719:0x54e805a776cfbeed?sa=X&ved=2ahUKEwiH2NDt57WEAxXog_0HHRkKCa0Q4kB6BAg5EAA)
-</summary>
-<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJGYfrDZoJxkcR7b7PdqcF6FQ&key=AIzaSyD2biRbP_7HaN52sJSBw0H9ulQe8h0dJQE"></iframe>
-
-</details> 
+**>📍 Location:** Amstelhaven [Op Professor Tulpplein / naast Amstelhotel, Mauritskade 1, 1091 EW Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c6099a0deb8719:0x54e805a776cfbeed?sa=X&ved=2ahUKEwiH2NDt57WEAxXog_0HHRkKCa0Q4kB6BAg5EAA)
 
 <br>
 
