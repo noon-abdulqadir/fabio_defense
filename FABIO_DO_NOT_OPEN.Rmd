@@ -7,7 +7,7 @@ output:
 <!-- Custom Header Start -->
 <div class="header">
   <h1 class="project-name" style="color: white;">🎁 Fabio's Surprise Gift 🎁</h1>
-  <p class="project-tagline">Please keep this a secret! 🤫</p>
+  <p class="project-tagline">Please do not tell Fabio about this! 🤫</p>
 </div>
 <!-- Custom Header End -->
 
