@@ -23,9 +23,9 @@ In addition to the main gift, we would like to gift Fabio a â€œfriendship bookâ€
 
 **Steps:**
 
-1. On the landing page, pick a language for the questionnaire (click [here](FABIO_DO_NOT_OPEN.jpg) to see what the landing page looks like).
-    + If you do not see a language picker, try opening the link in private/incognito mode.
-    + You can choose between English, German, and Italian. If you pick either German or Italian, you will see the questions in both languages. Fill the questionnaire out in the language you picked.
+1. On the landing page, enter your name, email, and pick a language for the questionnaire (click [here](FABIO_DO_NOT_OPEN.jpg) to see what the landing page looks like).
+    + If you do not see a language picker, try opening the link in private/incognito mode of your browser.
+    + For languages, you can choose between English, German, and Italian. If you pick either German or Italian, you will see the questions in both languages. Fill the questionnaire out in the language you picked.
 2. Answer several questions about Fabio.
 3. Write a short personal message.
 4. Upload a picture of yourself.
