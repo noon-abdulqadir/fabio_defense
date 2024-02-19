@@ -1,4 +1,5 @@
 ---
+title: "PhD Defense Fabio"
 output:
   rmdformats::html_docco:
     css: defense-in-style.css
@@ -74,7 +75,9 @@ blockquote {
   padding-left: 0; /* Removes padding on the left if it exists */
 }
 
-
+.title {
+    display: none;
+}
 ```
 
 <!-- <style> -->
@@ -93,12 +96,25 @@ blockquote {
 </div>
 <!-- Custom Header End -->
 
+<center>
 
 
-<center><h4>First thing first, kindly RSVP by clicking the button below.</h4></center>
+You are cordially invited to attend when Fabio will defend his PhD dissertation, entitled:
+
+<p class="fancy">A Dance with Data</p>
+<p class="fancy2">Unraveling the Supply and Demand Side of Political Microtargeting</p>
+
+
+<center><h4>Please let us know if you plan to attend by clicking the button below</h4></center>
 
 <center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button" style="color: white;">RSVP</a></center>
 
+<h4 class="fancy3">📅 Friday, April 19, 2024</h2>
+
+
+</center>
+
+<hr>
 
 <h4>Join us and celebrate as our dear Fabio becomes...</h4>
 
@@ -109,17 +125,20 @@ name <- "Fabio Votta"
 print(glue::glue("{title} {name}"))
 ```
 
-<!-- <hr> -->
+<hr>
 
 <!-- ***️❗️ Make sure to scroll all the way to the end for the secret page! (unless you're Fabio, in which case, nothing to see here...️)*** -->
 
 ## > Event Information {.tabset .tabset-fade .tabset-pills .break #event_info}
+
 
 <center>
 
 **📅 Date:** Friday, April 19, 2024
 
 *Click [here](https://calendar.google.com/calendar/u/4?cid=ZmFiaW8udm90dGEuZGVmZW5zZUBnbWFpbC5jb20) to download full day calendar invite and location information.*
+
+
 
 ### 14:00 Defense Ceremony 🧑🏻‍🏫 {#dissertation_info}
 
@@ -131,6 +150,7 @@ print(glue::glue("{title} {name}"))
 
 **>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
 
+![](Amsterdam_-_Singel_411_(Oude_Luterse_Kerk).JPG)
 
 **📝 Program:**
 
@@ -181,17 +201,18 @@ Car Parking Options:
 
 </details> 
 
+![](Foto Kerkzaal Oude Lutherse bijgesneden klein_0.jpg)
 
 
 
 <!-- <br> -->
 <!-- </br> -->
 
-### 15:30 Borrel 🍻 {#borrel}
+### 15:30 Reception 🍻 {#borrel}
 **🕐 Time:**
-15:30 (3:30PM) - 
+15:30 (3:30PM) - 17:00 (5:00PM)
   
-> *The borrel (snacks & drinks) begins directly after the defense ceremony and is at the same location.*
+> *The reception (snacks & drinks) begins directly after the defense ceremony and is at the same location.*
 
 
 **>📍 Location:** [Aula UvA, Singel 411, 1012 WN Amsterdam](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c609c193a4380f:0xccfdbd1232ff182d?sa=X&ved=2ahUKEwjXqt7Xy7WEAxUd_7sIHeA-A-4Q4kB6BAgPEAA)
@@ -227,10 +248,10 @@ Car Parking Options:
 
 
 
-### 18:00 Party 🎉 {#after_party}
+### 19:30 Party 🎉 {#after_party}
 **🕐 Time:**
-14:00 (2:00PM) - 15:00 (3:00PM)
-  
+19:30 (7:30PM) - *open end*
+
 <p class="fancy">dr::Fabio Votta</p>
 
 > *Let's celebrate Fabio's ascension to doctordom!*
@@ -256,7 +277,10 @@ Public Transport
 
 </details> 
 
+![](IMG_4834-scaled.jpg.webp)
+
 # {-}
+
 
 <hr>
 
@@ -312,24 +336,3 @@ Please click the button below for information on Fabio's gift (if you're not Fab
 
 </center>
 
-<!-- <h2>Overview</h2> -->
-
-<!-- + [Event Information](#event_info) -->
-
-<!-- + Download ALL event calendar invites -->
-
-<!-- -   Event info (time, location, duration, dress code, similar to emails from other defense) -->
-
-<!-- -   RSVPs link to google form where we collect emails (optional) and allow down of calendar invite - HERE add both dissertation, borrel, and party -->
-
-<!-- -   Calendar invite with both dissertation + borrel and party invites - kinda like phd club -->
-
-<!-- -   Link to maps dissertation + borrel and party location -->
-
-<!-- -   (Optional) Summary of dissertation, maybe abstract with the hopefully cute and badass cover -->
-
-<!-- -   Secret gift page with donation payment options - use IBAN, tikkie, my paypal or ask if sophia can set it up -->
-
-<!-- -   Insta page + Hashtag -->
-
-<!-- -    -->
