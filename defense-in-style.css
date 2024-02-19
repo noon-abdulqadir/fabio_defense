@@ -40,6 +40,22 @@
   font-style: italic;
 }
 
+.fancy2{
+  font-family: var(--font-fancy);
+  font-weight: 400;
+  font-size: 2.5rem; /* Larger font for the project name */
+  font-style: italic;
+}
+
+.fancy3{
+  text-transform: none; /* This ensures the text appears as typed, without transformation */
+  color: #fff;
+  font-weight: 400;
+  font-size: 2.5rem; /* Larger font for the project name */
+  font-style: italic;
+}
+
+
 .project-tagline {
   color: #fff;
   margin-bottom: 2cm;
@@ -231,8 +247,8 @@ h4 {
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.01rem;
   font-weight: normal;
   color: #159957;
   text-align: center;
