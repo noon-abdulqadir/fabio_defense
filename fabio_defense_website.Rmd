@@ -260,19 +260,45 @@ Public Transport
 
 <hr>
 
-<center>
-> *Please click the button below for information on Fabio's gift (if you're not Fabio)*
+## 🎁🗺️☀️ Fabio's Gifts 🏖️🚤🎁 {.tabset .tabset-fade .tabset-pills .break #gifts}
 
-<center><a href="FABIO_DO_NOT_OPEN.html" class="button" style="color: white;">🎁 Fabio's Gift 🎁</a></center>
+### 🎁 Main Gift {#main_gift}
+
+<center>
+After all these years of hard work, Fabio is very much looking forward to spending some time away from the screen on a nice sunny and warm beach; maybe even spend some time on a boat!
+
+</center>
+
+If you would like to contribute, please use the bank transfer information provided below.
+
+**Deadline to contribute:** Wednesday, April 17th, 2024
+
+**IBAN:** NL22 TRIO 0788 8536 94
+
+**Account Holder Name:** Sophie Minihold
+
+**Reference Note:** Defense Fabio + Your Name
+
+*If you make your contribution by April 17th, we can still include your name on the card that we will give Fabio on his defense day.*
+
+<center>
+***❗️ Don't forget to click on the Secret Gift tab above ❗***
+</center>
+
+### 🤫🎁 Secret Gift {#secret_gift}
+<center>
+Please click the button below for information on Fabio's gift (if you're not Fabio)
+
+<center><a href="FABIO_DO_NOT_OPEN.html" class="button" style="color: white;">🤫🎁 Fabio's Secret Gift 🎁🤫</a></center>
 </br>
 
 </center>
 
+# {-}
 
 <hr>
 
-
-## Event Media
+## 📸 Event Media
 
 <center>
 
@@ -283,9 +309,6 @@ Public Transport
 <hr>
 
 </center>
-
-
-
 
 </center>
 

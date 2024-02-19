@@ -6,27 +6,52 @@ output:
 
 <!-- Custom Header Start -->
 <div class="header">
-  <h1 class="project-name" style="color: white;">🎁 Fabio's Surprise Gift 🎁</h1>
-  <p class="project-tagline">Please do not tell Fabio about this! 🤫</p>
+  <h1 class="project-name" style="color: white;">🤫🎁 Fabio's Secret Gift 🎁🤫</h1>
+  <p class="project-tagline">Please do not tell Fabio about this!</p>
 </div>
 <!-- Custom Header End -->
 
 
-<center><h3> Friendship book </h3></center>
-In addition to the main gift, we would like to gift Fabio a [“friendship book”](https://mijnvriendenboekje.nl/product) and we need your input for that!
+## 📖 Friendship book 📖
+<center>
+In addition to the main gift, we would like to gift Fabio a “friendship book” and we need your input for that!
+</center>
 
-***Please click [here]() to access Fabio's friendship book.***
+<br></br>
 
 **Deadline to fill out:** Monday, April 8th, 2024
 
-**You will be asked to:**
+**Steps:**
 
-+ Answer several questions about Fabio
-+ Write a short personal message
-+ Upload a picture of yourself
+1. On the landing page, pick a language for the questionnaire (click [here](FABIO_DO_NOT_OPEN.jpg) to see what the landing page looks like).
+    + If you do not see a language picker, try opening the link in private/incognito mode.
+    + You can choose between English, German, and Italian. If you pick either German or Italian, you will see the questions in both languages. Fill the questionnaire out in the language you picked.
+2. Answer several questions about Fabio.
+3. Write a short personal message.
+4. Upload a picture of yourself.
 
-Everything on your page is optional so you can also leave out questions or a picture if you prefer that.
+<hr>
+<center>
+***Ready? To access Fabio's friendship book, please click the button below***
 
-If you cannot access the link, please reach out to us by clicking [here](mailto:noon.abdulqadir@gmail.com) and we will add you.
+<center><a href="https://mijnvriendenboekje.nl/nw/index.php?r=participant%2Finvitation-link&bookId=64148&token=tLOQA84ZovB0YIg_Z7YUYvH1i3n7-oyE5lnkteJinDWQ" class="button" style="color: white;">Friendship Book</a></center>
 
-If you have more pictures which you would like to see in this “friendship book”, please send them to us by clicking [here](mailto:noon.abdulqadir@gmail.com).
+<br></br>
+
+***Or scan the QR code***
+
+![](NO_FABIO_QR_code.png)
+
+</center>
+
+<hr>
+
+#### Things to keep in mind
+
++ Everything on your page is optional so you can also leave out questions or a picture if you prefer that.
++ If you cannot access the link, please reach out to us by clicking [here](mailto:fabio.votta.defense@gmail.com) and we will add you.
++ If you have more pictures which you would like to see in the friendship book, please send them to us by clicking [here](mailto:fabio.votta.defense@gmail.com).
+
+<hr>
+
+<br></br>
