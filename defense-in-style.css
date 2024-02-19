@@ -48,11 +48,9 @@
 }
 
 .fancy3{
+  color: black;
   text-transform: none; /* This ensures the text appears as typed, without transformation */
-  color: #fff;
-  font-weight: 400;
-  font-size: 2.5rem; /* Larger font for the project name */
-  font-style: italic;
+  font-size: 2rem; /* Larger font for the project name */
 }
 
 

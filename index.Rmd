@@ -92,23 +92,27 @@ blockquote {
 <!-- Custom Header Start -->
 <div class="header">
   <h2 class="project-name">Fabio's Doctoral Defense Ceremony</h2>
-  <h4 class="fancy3">📅 Friday, April 19, 2024 at 14:00</h2>
   <h3 class="project-tagline">Find all the information below for Fabio's big day! ✨🚤👨🏻‍🎓✨</h3>
 </div>
 <!-- Custom Header End -->
 
 <center>
 
+
 You are cordially invited to attend when Fabio will defend his PhD dissertation, entitled:
 
 <p class="fancy">A Dance with Data</p>
 <p class="fancy2">Unraveling the Supply and Demand Side of Political Microtargeting</p>
-</center>
 
 
 <center><h4>Please let us know if you plan to attend by clicking the button below</h4></center>
 
 <center><a href="https://forms.gle/f4YLD5jomEYPTgKy7" class="button" style="color: white;">RSVP</a></center>
+
+<h4 class="fancy3">📅 Friday, April 19, 2024</h2>
+
+
+</center>
 
 <hr>
 
